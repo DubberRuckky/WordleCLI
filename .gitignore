@@ -1,0 +1,8 @@
+*.o
+*.so
+*.dylib
+*.exe
+*.dSYM
+.vscode/
+*.log
+*.tmp
